@@ -4,7 +4,7 @@ const initState = {
     bookmarks:[],
     hideMore:false,
     tpages:0,
-    page:0,
+    page:2,
     loadWait:false,
     userRepos:[],
     err:'',
@@ -16,7 +16,7 @@ const dataReducer=(state = initState,action)=>{
         case "SEARCH_INIT":
             st.dataAwaited = true;
             st.searchRes = [];
-            st.page = 0;
+            st.page = 2;
             st.err = '';
             st.loadWait=false;
             return st;
