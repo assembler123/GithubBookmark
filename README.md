@@ -8,4 +8,5 @@
 - Type in the username and click search
 - Add the bookmarks
 
-![Working of the app] (https://media.giphy.com/media/8qCBRWlhl5ls3xiK5d/giphy.gif)
+![Working of the app](https://media.giphy.com/media/8qCBRWlhl5ls3xiK5d/giphy.gif)
+
