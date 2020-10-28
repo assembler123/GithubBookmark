@@ -7,4 +7,5 @@
 - Select users from dropdown
 - Type in the username and click search
 - Add the bookmarks
-![] (https://medium.com/@josephcardillo/how-to-add-gifs-to-your-github-readme-89c74da2ce47)
+
+![] (https://media.giphy.com/media/8qCBRWlhl5ls3xiK5d/giphy.gif)
