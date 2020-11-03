@@ -18,7 +18,7 @@ const Searchbar = (props) => {
         </select>
         <input type='text' placeholder='Search' className='form-control search' onChange={e=>{setKeyword(e.target.value)}}/>
         <button className='btn btn-primary' onClick={e=>{
-          if(keyword.length)
+          if(keyword.length>0)
           {
             setSearch(true);
           }
